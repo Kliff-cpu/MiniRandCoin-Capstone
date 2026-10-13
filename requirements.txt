@@ -1,0 +1,3 @@
+cryptography>=42
+requests>=2.31
+notebook>=7
